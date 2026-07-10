@@ -11,7 +11,7 @@ namespace Name
 
         public void helloWorldPrint()
         { 
-            Console.WriteLine("hello World"); 
+            Console.WriteLine("hello everyone"); 
         }
     }    
 }
