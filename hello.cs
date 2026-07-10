@@ -7,6 +7,8 @@ namespace Name
         {
             helloWorld program = new helloWorld();
             program.helloWorldPrint();
+            helloWorld greet = new GreetBlack();
+            greet.GreetBlack();
         }
 
         public void helloWorldPrint()
