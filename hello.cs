@@ -13,5 +13,10 @@ namespace Name
         { 
             Console.WriteLine("hello World"); 
         }
+
+        public void GreetWhite()
+        {
+            Console.WriteLine("hello white");
+        }     
     }    
 }
